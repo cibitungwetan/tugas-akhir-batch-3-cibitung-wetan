@@ -16,7 +16,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Visi</p>
       <p>
         “Mewujudkan Masyarakat Desa Cibitung Wetan yang “ SERASI” 
-(Sehat, Rapi, Aman dan Sejahtera) Pada Tahun 2029”
+        (Sehat, Rapi, Aman dan Sejahtera) Pada Tahun 2029”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
