@@ -6,7 +6,7 @@
       <img src="@/assets/menu.svg" alt="" />
     </div> -->
     <div class="flex flex-col ml-5 justify-center">
-      <!-- Sesuaikan nama desa masing-masing -->
+      <!-- Cibitung Wetan -->
       <p class="text-lg leading-none uppercase text-white font-bold mb-2">
         Desa Contoh tugas Akhir Header
       </p>
