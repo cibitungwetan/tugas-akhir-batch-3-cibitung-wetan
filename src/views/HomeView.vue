@@ -11,7 +11,7 @@ import Sidebar from "../components/Sidebar.vue";
   <main class="flex">
     <Sidebar />
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold">Visi&Misi Desa Cibitung Wetan</p>
+      <p class="text-3xl font-semibold my-4">Visi&Misi Desa Cibitung Wetan</p>
       <p class="text-lg font-semibold">Visi</p>
       <p> “Mewujudkan Masyarakat Desa Cibitung Wetan yang “ SERASI” (Sehat, Rapi, Aman dan Sejahtera) Pada Tahun 2029”
       </p>
