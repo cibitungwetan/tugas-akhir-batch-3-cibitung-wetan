@@ -10,7 +10,6 @@ import Sidebar from "../components/Sidebar.vue";
 
   <main class="flex">
     <Sidebar />
-
     <div class="flex-1 p-10">
       <p class="text-3xl font-semibold">Visi&Misi Desa Cibitung Wetan</p>
       <p class="text-lg font-semibold">Visi</p>
