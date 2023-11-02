@@ -24,7 +24,7 @@
 
       <a class="text-lg text-white mx-4 cursor-pointer">
         <router-link to="/about">Tentang Desa</router-link>
-      </a>
+      <img src="@/assets/STRUKTURDESA.png" alt=""/>
 
       <!-- <div
         class="border-l border-zinc-700 h-[60%] flex items-center px-4 ml-10"
