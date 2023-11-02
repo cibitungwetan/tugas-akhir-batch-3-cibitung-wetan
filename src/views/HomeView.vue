@@ -14,10 +14,8 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold my-4">Visi&Misi Desa Cibitung Wetan</p>
       <p class="text-lg font-semibold">Visi</p>
       <p> “Mewujudkan Masyarakat Desa Cibitung Wetan yang “ SERASI” (Sehat, Rapi, Aman dan Sejahtera) Pada Tahun 2029”
-      </p>
-      <p class="text-lg font-semibold">Misi</p>
-      <ul>
-        <li>
+          <p class="text-lg font-semibold">Misi</p>
+           <li>
           1.Mewujudkan pemerintah Desa Cibitung Wetan yang efektif dan efisien dalam rangka mengoptimalkan pelayanan kepada masyarakat;
         </li>
         <li>
