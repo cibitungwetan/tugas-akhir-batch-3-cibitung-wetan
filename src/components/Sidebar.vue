@@ -15,7 +15,7 @@
       class="text-lg py-4 px-1 border-b border-slate-200 text-[#00074e] font-semibold cursor-pointer"
     >
       <router-link to="/about">Tentang Desa</router-link>
-    </div>
+    </div> img src="@/assets/STRUKTURDESA.png" alt=""/>
   </div>
 </template>
 
