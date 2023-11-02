@@ -7,7 +7,7 @@
     />
     <div class="ml-10 flex flex-col justify-center">
       <p class="text-white text-2xl mb-2">Profile Desa</p>
-      <!-- Sesuaikan nama desa masing-masing -->
+      <!-- Desa Cibitung Wetan -->
       <p class="text-white text-3xl">Desa Cibitung Wetan</p>
       <p class="text-white text-3xl">Kab. Bogor</p>
     </div>
@@ -15,7 +15,7 @@
       <iframe
         width="480"
         height="260"
-        src="https://www.youtube.com/embed/wDMTaLZ-XX0?si=g_X0dJ2ZgKJBPs5r"
+        src="https://youtu.be/nUG1dYWJgM0?si=NTCPPZdKGUNbM8hT"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
